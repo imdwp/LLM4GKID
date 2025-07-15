@@ -21,7 +21,6 @@ If you use this work in your research, please cite:
 ```bibtex
 @article{deng2024llm4gkid,
   title={LLM4GKID: A Multimodal Large Language Model-driven POI Matching Framework for Ghost Kitchen Identification},
-  author={Deng, Weipeng and Tang, Yihong and Wang, Chaofan and Yang, Tianren},
   journal={Submitted to Elsevier},
   year={2024}
 }
