@@ -19,7 +19,7 @@ LLM4GKID is a novel framework that identifies **ghost kitchens** (delivery-only 
 If you use this work in your research, please cite:
 
 ```bibtex
-@article{d2024llm4gkid,
+@article{d2025llm4gkid,
   title={LLM4GKID: A Multimodal Large Language Model-driven POI Matching Framework for Ghost Kitchen Identification},
   journal={Submitted to IEEE},
   year={2024}
